@@ -1,0 +1,3 @@
+[submodule "lectures/20/ncov"]
+	path = lectures/20/ncov
+	url = https://github.com/nextstrain/ncov
